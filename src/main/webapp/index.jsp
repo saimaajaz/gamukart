@@ -103,6 +103,7 @@
 			<div id="tabs-4">
 				<p>Samsung</p>
 				<p>Apple</p>
+				<p>MI</p>
 			</div>
 		</div>
 
