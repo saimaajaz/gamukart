@@ -24,17 +24,12 @@
 			
 	</dependencies>
     <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>ip-172-31-40-203-releases</name>
-        <url>http://13.126.137.172:8081/artifactory/myrepo-test</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-40-203-snapshots</name>
-        <url>http://13.126.137.172:8081/artifactory/myrepo-test</url>
-    </snapshotRepository>
-    </distributionManagement>
+      <repository>
+        <id>staragile-gamukart</id>
+        <name>staragile-gamukart</name>
+        <url>https://staragile-011941842853.d.codeartifact.ap-south-1.amazonaws.com/maven/gamukart/</url>
+      </repository>
+    </distributionManagement>	
     <properties>
        <maven.compiler.source>1.7</maven.compiler.source>
        <maven.compiler.target>1.7</maven.compiler.target>
